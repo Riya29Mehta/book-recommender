@@ -11,3 +11,18 @@ Dataset link: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 ### 1. Clone the repository
 git clone https://github.com/Riya29Mehta/book-recommender.git
 cd book-recommender
+### 2. Install the dependencied
+pip install -r requirements.txt
+
+### 3. Run the Flask app
+python app.py
+
+### 4. Open in browser
+http://127.0.0.1:5000/
+
+
+
+
+License
+
+This project is for educational purposes.
