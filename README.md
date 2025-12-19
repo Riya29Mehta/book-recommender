@@ -4,6 +4,8 @@ The application recommends books based on similarity and also displays top popul
   
 Live Demo: https://book-recommender-2xi2.onrender.com  
 (it may take 30-40 seconds to load)  
+  
+  
 Data Description
 We've three dataset -
 - Book data – (ISBN, Book-Title, Book-Author, Year-Of-Publication, Publisher, Image-URL-S, Image-URL-M, Image-URL-L)
