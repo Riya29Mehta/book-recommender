@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-   n = 50 
+   n = 200 
 
    return render_template(
         'index.html',
